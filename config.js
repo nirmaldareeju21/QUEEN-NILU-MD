@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;Aqg1DQ5K#rnO9xtB6VyX1c_QUwGbZ3vvm-I3hHPbKKE4ZQ-9k5Og' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://nirmal_user:ZeEGjOD3H52SWsoIJG5ujaWp8u0j7bCU@dpg-clqklj8gqk6s738u27r0-a.frankfurt-postgres.render.com/nirmal'
 
  
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94773002061'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'Nirmal'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -49,7 +49,7 @@ global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
 global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
 
-global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
+global.LANG = 'SI' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
@@ -76,7 +76,7 @@ global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur gro
 
 /* 18 + Download Settings */
 
-global.SEX_DL = 'false' // 18 + video dl
+global.SEX_DL = 'True' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
@@ -87,8 +87,3 @@ global.AUTO_REPLY = true
 global.VOICE_REPLY = true
 
 
-/* V card */
-
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
-global.location = "Srilanka, colombo" //ur location
